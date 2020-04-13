@@ -1,6 +1,6 @@
 {
   "name": "emfn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Emanuel Master Functions Notion",
   "main": "BUILD/EMFN.js",
   "scripts": {
