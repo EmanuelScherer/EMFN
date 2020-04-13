@@ -22,7 +22,6 @@
     "uuid": "^7.0.3",
     "acorn": ">=5.7.4",
     "kind-of": ">=6.0.3"
-}
   },
   "devDependencies": {
     "better-docs": "^1.4.7",
