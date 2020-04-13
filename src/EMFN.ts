@@ -116,7 +116,7 @@ export class Notion {
     }
 
     /**
-     * Cria uma nova pagina
+     * Cria uma nova pagina (essa pagina pode ser vista por todos na Workspace)
      * 
      * @param name - Nome que deseja dar para a nova pagina
      * @param workspace - Workspace da documentação
@@ -213,6 +213,13 @@ export class Notion {
                                         name
                                     ]
                                 ]
+                            },
+                            {
+                                "table":"block",
+                                "id":id,
+                                "command":"setPermissionItem",
+                                "path":["permissions"],
+                                "args":{"type":"space_permission","role":"reader"}
                             }
                         ]
                     }
