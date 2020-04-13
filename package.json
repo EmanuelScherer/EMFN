@@ -20,7 +20,8 @@
   "dependencies": {
     "axios": "^0.19.2",
     "uuid": "^7.0.3",
-    "acorn": ">=5.7.4"
+    "acorn": ">=5.7.4",
+    "kind-of": ">=6.0.3"
 }
   },
   "devDependencies": {
