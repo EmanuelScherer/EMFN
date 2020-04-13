@@ -6,7 +6,8 @@
  * @requires axios^0.19.2
  * @requires uuid^7.0.3
  * @requires acorn>=5.7.4
- * 
+ * @requires kind-of>=6.0.3 
+ *
 */
 
 import axios from 'axios';
