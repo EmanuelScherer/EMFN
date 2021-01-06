@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/EmanuelScherer/EMFN#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "uuid": "^7.0.3",
     "acorn": ">=5.7.4",
     "kind-of": ">=6.0.3"
