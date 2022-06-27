@@ -19,7 +19,7 @@
   "homepage": "https://github.com/EmanuelScherer/EMFN#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "uuid": "^7.0.3",
+    "uuid": "^8.3.2",
     "acorn": ">=5.7.4",
     "kind-of": ">=6.0.3"
   },
